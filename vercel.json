@@ -1,0 +1,12 @@
+{
+  "routes": [
+    { "src": "goodluck website.html",
+      "dest": "goodluck website.html",
+    },
+    {
+      "src": "goodluck website.html",
+      "dest": "goodluck website.html"
+    }
+  ]
+}
+      
